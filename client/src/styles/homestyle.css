@@ -1,0 +1,11 @@
+.home {
+    height: 90vh;
+    display: flex;
+    /* margin:auto 0; */
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

@@ -1,0 +1,762 @@
+{
+  "product": [
+    {
+      "name": "D-KAMA BLUE LOOSE LOGO SHIRTS",
+      "desc": "This men's denim shirt features a slightly oversized silhouette with dropped sleeves. Crafted from light blue TENCEL™ Lyocell denim and decorated on the back yoke with a large, super stonewashed Oval D logo patch finished with raw edges.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373919003/665/410373919003_1_8341.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373919003/665/410373919003_3_3252.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373919003/665/410373919003_4_6570.webp",
+      "price": "49999",
+      "category": "men",
+      "size": "Large",
+      "id": 1
+    },
+    {
+      "name": "S-WARH WHITE LOOSE EMBROIDERY SHIRTS",
+      "desc": "This men's shirt is built from a combination of high-density cotton poplin and raw-edged denim. Regular fit with embroidered oval D logo in tonal yarn.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373806008/665/410373806008_1_2271.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373806008/665/410373806008_2_6523.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373806008/665/410373806008_3_4215.webp",
+      "price": "27999",
+      "category": "men",
+      "size": "Large",
+      "id": 2
+    },
+    {
+      "name": "1984 SLANDY-HIGH SUPER SKINNY FIT WOMAN BLUE MEDIUM WASHED JEANS",
+      "desc": "Made from super stretch denim, this dark blue wash is characterised by a perfectly clean finish. Super-skinny style with a high waist. The silhouette follows the body from hips to ankles, creating a second-skin effect.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410360453006/665/410360453006_1_6720.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410360453006/665/410360453006_2_4177.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:900)/product/410360453006/665/410360453006_3_7280.webp",
+      "price": "2000",
+      "category": "women",
+      "size": "Medium",
+      "id": 3
+    },
+    {
+      "name": "T-SKINZY-L1 GREY REGULAR PRINTED T-SHIRT",
+      "desc": "",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373892004/665/410373892004_1_2717.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373892004/665/410373892004_2_3916.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373892004/665/410373892004_3_1922.webp",
+      "price": "5000",
+      "category": "women",
+      "size": "Medium",
+      "id": 4
+    },
+    {
+      "name": "D-FAYZA JOGG BOYFRIEND HEAVILY WASHED LOW RISE WOMAN JOGGJEANS",
+      "desc": "Boyfriend style with a regular waist and a low crotch, crafted in JoggJeans fabric for the utmost comfort. The curved leg narrows to the ankle and is defined by a slightly slouchy silhouette. The fabric is made using 52% TENCEL Lyocell, sourced from responsibly-managed forests and produced through a closed loop process which recovers 99.7% of solvents and water for reuse.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372722004/665/410372722004_1_5501.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372722004/665/410372722004_4_4241.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372722004/665/410372722004_5_1805.webp",
+      "price": "3000",
+      "product": "jeans",
+      "category": "women",
+      "size": "Medium",
+      "id": 5
+    },
+    {
+      "name": "2019 D-STRUKT SLIM FIT MAN BLUE MEDIUM WASHED JEANS",
+      "desc": "Made using recycled fibres, this fix denim is part of Diesel Rehab Denim, an innovative fabric created with a more circular approach. The light blue hue features abrasions and worn effects for a distinctive look. Slim style with a clean construction and essential details. This versatile jean features a comfortable silhouette, finished with a zip fly.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372477010/665/410372477010_1_1304.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372477010/665/410372477010_2_9603.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372477010/665/410372477010_3_2979.webp",
+      "price": "36999",
+      "product": "jeans",
+      "category": "men",
+      "size": "Medium",
+      "id": 6
+    },
+    {
+      "name": "HIRESH S.II MEN BLACK WALLET",
+      "desc": "men's bi-fold wallet made from grainy leather, embellished on the front with oval D logo hardware.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345149001/665/410345149001_1_9493.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345149001/665/410345149001_2_3100.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345149001/665/410345149001_4_5137.webp",
+      "price": "18999",
+      "product": "accessories",
+      "category": "men",
+      "size": "Medium",
+      "id": 7
+    },
+    {
+      "name": "JOHNNY MEN BROWN WALLET",
+      "desc": "men's card holder crafted from grained leather. Detailed with embossed branding on one side and a silver logo plaque on the other, this slim accessory holds six cards and has an additional discreet slot in the middle.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345150002/665/410345150002_1_3074.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345150002/665/410345150002_2_1356.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345150002/665/410345150002_3_3863.webp",
+      "price": "7999",
+      "product": "accessories",
+      "category": "men",
+      "size": "Medium",
+      "id": 8
+    },
+    {
+      "name": "KROOLEY TAPERED FIT MAN GREEN MEDIUM WASHED JOGGJEANS",
+      "desc": "This coloured wash is lightly treated to create a natural, slightly lived-in look. Tapered style crafted in JoggJeans® for the utmost comfort. The streamlined leg narrows to the ankle, and the waistband features a drawstring.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410279568029/665/410279568034_1_8604.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410279568029/665/410279568034_2_4851.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410279568029/665/410279568034_3_4197.webp",
+      "price": "29999",
+      "product": "jeans",
+      "category": "men",
+      "size": "Medium",
+      "id": 9
+    },
+    {
+      "name": "BI-FOLD COIN S BLACK MEN WALLET",
+      "desc": "Featuring a classic black hue, this men's leather wallet offers card, note and coin storage in a neat bi-fold design. A metal logo plaque completes the simple silhouette.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373654001/665/410373654001_1_7371.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373654001/665/410373654001_2_8516.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373654001/665/410373654001_3_5507.webp",
+      "price": "15999",
+      "product": "accessories",
+      "category": "men",
+      "size": "Medium",
+      "id": 10
+    },
+    {
+      "name": "KROOLEY TAPERED FIT MAN BLUE MEDIUM WASHED JOGGJEANS",
+      "desc": "This coloured wash is lightly treated to create a natural, slightly lived-in look. Tapered style crafted in JoggJeans® for the utmost comfort. The streamlined leg narrows to the ankle, and the waistband features a drawstring.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410279568035/665/410279568035_1_5108.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410279568035/665/410279568035_2_7436.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410279568035/665/410279568035_3_3905.webp",
+      "price": "29999",
+      "product": "jeans",
+      "category": "men",
+      "size": "Medium",
+      "id": 11
+    },
+    {
+      "name": "RAVE BACKPACK X BLACK UNISEX BACKPACK",
+      "desc": "Made from washed recycled fabric, this backpack features padded shoulder straps, a separate zipped compartment at the bottom and a roomy interior fitted with a padded sleeve for a laptop. A jacquard logo patch completes the clean, genderless design.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372526001/665/410372526001_1_3400.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372526001/665/410372526001_2_4094.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372526001/665/410372526001_3_1454.webp",
+      "price": "19999",
+      "product": "accessories",
+      "category": "men",
+      "size": "Medium",
+      "id": 12
+    },
+    {
+      "name": "S-OMAR-SSL REGULAR GREY MAN SHIRT",
+      "desc": "men's shirt crafted from a blend of cotton and hemp slub yarn for a crisp, lightweight feel. Regular fit with short sleeves, adorned with tonal oval D embroidery on the left chest pocket.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372671004/665/410372671004_1_7956.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372671004/665/410372671004_2_9185.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372671004/665/410372671004_3_1301.webp",
+      "price": "16999",
+      "product": "t-shirt",
+      "category": "men",
+      "size": "Medium",
+      "id": 13
+    },
+    {
+      "name": "KROOLEY TAPERED FIT MAN BLACK MEDIUM WASHED JOGGJEANS",
+      "desc": "Tapered style crafted in JoggJeans® for the utmost comfort. The streamlined leg narrows to the ankle, and the waistband features a drawstring.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410279568027/665/410279568046_1.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410279568027/665/410279568046_2.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410279568027/665/410279568046_3.webp",
+      "price": "29999",
+      "product": "jeans",
+      "category": "men",
+      "size": "Medium",
+      "id": 14
+    },
+    {
+      "name": "S-FRANK-CHECK REGULAR MAN SHIRT",
+      "desc": "men's shirt built from high-density organic cotton poplin. This regular-fit style flaunts a checked pattern, updated with a spray can effect. Finished with a washed treatment for a faded look.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372583008/665/410372583008_1_2453.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372583008/665/410372583008_2_2227.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372583008/665/410372583008_3_4399.webp",
+      "price": "17999",
+      "product": "t-shirt",
+      "category": "men",
+      "size": "Medium",
+      "id": 15
+    },
+    {
+      "name": "B-LINE BLACK MAN BELT",
+      "desc": "Made from treated leather with a supple feel, this belt features a contrasting Diesel Industry logo at the strap end. The classic pin buckle completes the style.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410081734007/665/410081734007_1_3640.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410081734007/665/410081734007_2_8797.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410081734007/665/410081734007_3_5493.webp",
+      "price": "8999",
+      "product": "accessories",
+      "category": "men",
+      "size": "Medium",
+      "id": 16
+    },
+    {
+      "name": "B-VISIBLE BROWN MAN BELT",
+      "desc": "Responsible Collection vegetable-tanned leather belt. It fastens with a pin buckle and has a pair of loops—one in leather, the other in metal—that share the Diesel branding. This item is made using vegetable tanned leather, reducing the chemical impact of the tanning process.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345060010/665/410345060010_1_7747.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345060010/665/410345060010_2_3174.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345060010/665/410345060010_3_1503.webp",
+      "price": "7999",
+      "product": "accessories",
+      "category": "men",
+      "size": "Medium",
+      "id": 17
+    },
+    {
+      "name": "T-DIEGOR-G8 SLIM MAN T-SHIRT",
+      "desc": "Cut from soft cotton jersey, this men's T-shirt is styled with a slim fit. The chest is adorned with a digital Diesel store photo print.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372616011/665/410372616011_1_6561.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372616011/665/410372616011_2_9059.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372616011/665/410372616011_3_7270.webp",
+      "price": "9999",
+      "product": "t-shirt",
+      "category": "men",
+      "size": "Medium",
+      "id": 18
+    },
+    {
+      "name": "S-DEWNY-CMF GREEN LOOSE PRINTED SHIRTS",
+      "desc": "men's loose-fit shirt built from TENCEL™ twill. Its all-over Planet print is inspired by images of the globe when viewed from above. Topped with patch pockets on the chest.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373676009/665/410373676009_1_7098.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373676009/665/410373676009_2_9045.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373676009/665/410373676009_3_8511.webp",
+      "price": "29999",
+      "product": "t-shirt",
+      "category": "men",
+      "size": "Medium",
+      "id": 19
+    },
+    {
+      "name": "D-KROOLEY-CARGO JOGG GREY TAPERED MID RISE MEDIUM WASHED SWEAT JEANS",
+      "desc": "Tapered style featuring a streamlined leg that narrows to the ankle. This JoggJeans is enriched with cargo pockets and features a vintage D logo and an elasticated waistband with incorporeted belt. The fabric is made using 52% TENCEL™ Lyocell, sourced from responsibly-managed forests and produced through a closed loop process which recovers 99.7% of solvents and water for reuse.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373666006/665/410373666006_4_7282.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373666006/665/410373666006_2_7815.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373666006/665/410373666006_3_4606.webp",
+      "price": "46999",
+      "product": "jeans",
+      "category": "men",
+      "size": "Medium",
+      "id": 20
+    },
+    {
+      "name": "DIESEL SPLIT GOLD WATCH DZ4590",
+      "desc": ".",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410321639001/665/410321639001_1_9650.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410321639001/665/410321639001_3_3067.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410321639001/665/410321639001_4_9429.webp",
+      "price": "21999",
+      "product": "accessories",
+      "category": "men",
+      "size": "Medium",
+      "id": 21
+    },
+    {
+      "name": "DIESEL BABY CHIEF BLACK WATCH DZ4617",
+      "desc": ".",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372948001/665/410372948001_1_4706.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372948001/665/410372948001_3_4158.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372948001/665/410372948001_4_8200.webp",
+      "price": "21495",
+      "product": "accessories",
+      "category": "men",
+      "size": "Medium",
+      "id": 22
+    },
+    {
+      "name": "S-FRANK-CHECK MAN REGULAR FIT SHIRT",
+      "desc": "men's shirt built from high-density organic cotton poplin. This regular-fit style flaunts a checked pattern, updated with a spray can effect. Finished with a washed treatment for a faded look. CERTIFIED ORGANIC COTTON: The fabric is made using 100% certified organic cotton, grown using farming practices that support biodiversity and healthy ecosystems.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372583007/665/410372583007_1_5713.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372583007/665/410372583007_2_7520.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372583007/665/410372583007_3_4534.webp",
+      "price": "17999",
+      "product": "t-shirt",
+      "category": "men",
+      "size": "Medium",
+      "id": 23
+    },
+    {
+      "name": "1969 D-EBBEY BOOTCUT FIT WOMAN BLUE MEDIUM WASHED JEANS",
+      "desc": "This rinse-washed stretch denim features two innovative treatments: the Polygiene ViralOff® antimicrobial treatment and Polygiene®Odor Crunch. This exclusive combination reduces microbes on the surface of the fabric by 99% in 2 hours, and effectively breaks down and eliminates odours. The denim needs to be washed less often, therefore lives longer and is more sustainable. The dark blue hue has a clean finish. Bootcut style with a low waist and higher back coverage. This classic slim jean with a bohemien attitude hugs the body from the hips to the knees.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410360457008/665/410360457008_1_6153.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410360457008/665/410360457008_2_3915.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410360457008/665/410360457008_3_5867.webp",
+      "price": "12799",
+      "product": "jeans",
+      "category": "women",
+      "size": "Medium",
+      "id": 24
+    },
+    {
+      "name": "P-ZAM-DOVAL-PJ PINK WOMAN REGULAR PANTS",
+      "desc": "These women's regular-fit tracksuit bottoms flaunt a straight-leg design with zip pockets. Made from organic cotton jersey, they feature an oval 'D' patch on the left leg.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372551003/665/410372551003_1_9712.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372551003/665/410372551003_2_2691.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372551003/665/410372551003_3_7591.webp",
+      "price": "13599",
+      "product": "jeans",
+      "category": "women",
+      "size": "Medium",
+      "id": 25
+    },
+    {
+      "name": "1994 STRAIGHT FIT WOMAN BLACK MEDIUM WASHED JEANS",
+      "desc": "Slim style with a high waist and straight leg. Nodding to '90s silhouettes, this jean channels an original Denim attitude and is finished with a zip fly.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345067008/665/410345067008_1_5994.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345067008/665/410345067008_2_5313.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345067008/665/410345067008_3_9662.webp",
+      "price": "17599",
+      "product": "jeans",
+      "category": "women",
+      "size": "Medium",
+      "id": 26
+    },
+    {
+      "name": "D-VINA-S BLUE WOMEN SHOULDER BAG",
+      "desc": "This women's handbag is crafted from blue denim with a special solarised wash that recreates a sun-faded effect. The small folding design features a double handle and a metal Diesel lettering charm that doubles as a bracelet.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410374005001/665/410374005001_1_1785.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410374005001/665/410374005001_2_9076.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410374005001/665/410374005001_3_8523.webp",
+      "price": "52999",
+      "product": "accessories",
+      "category": "women",
+      "size": "Medium",
+      "id": 27
+    },
+    {
+      "name": "O-MELT SILVER SLIM SOLID MID RISE SKIRTS",
+      "desc": "This slim-fit midi skirt is built from stretch jersey with a shiny silver foil coating. Its draped silhouette features a front slit and is secured with a metal oval D plaque.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373817004/665/410373817004_3_2501.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373817004/665/410373817004_4_3700.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373817004/665/410373817004_1_3282.webp",
+      "price": "22999",
+      "product": "jeans",
+      "category": "women",
+      "size": "Medium",
+      "id": 28
+    },
+    {
+      "name": "G-KHLO RED REGULAR SOLID JACKETS",
+      "desc": "This woman's jacket features a slightly cropped bomber silhouette, crafted from nylon taslan with a soft cotton-like feel. It's lightly padded for warmth and detailed with large utilitarian pockets, one of which bears an embroidered 'oval D' logo. The sleeves have subtle gathered seams for added volume.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373821004/665/410373821004_3_2219.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373821004/665/410373821004_2_2976.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373821004/665/410373821004_1_5595.webp",
+      "price": "39999",
+      "product": "t-shirt",
+      "category": "women",
+      "size": "Medium",
+      "id": 29
+    },
+    {
+      "name": "1DR XS MULTI WOMEN CROSS BODYBAG",
+      "desc": "A compact, sized-down version of the coveted 1DR bag, this micro accessory is crafted from blue denim with a sun-faded effect obtained through a special solarisation treatment. The quilted flap is embellished with the signature metal Oval D plaque, making it instantly recognisable. It doubles as a tiny crossbody thanks to the detachable strap.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373982001/665/410373982001_2_1934.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373982001/665/410373982001_1_4194.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373982001/665/410373982001_3_3524.webp",
+      "price": "32999",
+      "product": "accessories",
+      "category": "women",
+      "size": "Medium",
+      "id": 30
+    },
+    {
+      "name": "1DR XS MULTI WOMEN CROSS BODYBAG",
+      "desc": "Crafted from black crocodile-print leather, this women's small purse functions as a micro handbag or a tiny crossbody. Smaller version of the signature 1DR shoulder bag, the accessory is embellished with a matching metal Oval D plaque on the flap. The texture is enhanced by contrasting dark grey details.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373984001/665/410373984001_1_1171.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373984001/665/410373984001_2_5631.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373984001/665/410373984001_3_5584.webp",
+      "price": "36999",
+      "product": "accessories",
+      "category": "women",
+      "size": "Medium",
+      "id": 31
+    },
+    {
+      "name": "JULIE BLUE WOMEN WALLET",
+      "desc": "Designed in a bright blue hue, this women's leather wallet has a long, continental shape and a tab fastening embellished with enamelled 'oval D' hardware. Multiple internal slots and compartments keep your cards, notes and coins organised.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373989001/665/410373989001_1_6849.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373989001/665/410373989001_2_9882.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373989001/665/410373989001_3_7046.webp",
+      "price": "21999",
+      "product": "accessories",
+      "category": "women",
+      "size": "Medium",
+      "id": 32
+    },
+    {
+      "name": "PLAY SHOULDER PINK WOMEN CROSS BODYBAG",
+      "desc": "Playfully shaped like a gaming controller, this women's shoulder bag has a curvy structure and a zip-fastening top. It's made from soft PU patterned with a graphic print and finished with minimal Oval D hardware.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373990002/665/410373990002_1_4268.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373990002/665/410373990002_2_6296.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373990002/665/410373990002_3_5984.webp",
+      "price": "29999",
+      "product": "accessories",
+      "category": "women",
+      "size": "Medium",
+      "id": 33
+    },
+    {
+      "name": "1969 D-EBBEY MEDIUM TREATED BLUE WOMAN BOOTCUT AND FLARE JEANS",
+      "desc": "Bootcut style with a low waist and higher back coverage. This classic slim jean with a bohemien attitude hugs the body from the hips to the knees. The fabric is made using 30% certified recycled cotton, reducing the use of virgin resources. Crafted from denim with partially recycled fibres and a hint of stretch in a light blue wash with an authentic, naturally used look.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372492006/665/410372492006_1_1246.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372492006/665/410372492006_2_8209.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372492006/665/410372492006_3_4743.webp",
+      "price": "27999",
+      "product": "jeans",
+      "category": "women",
+      "size": "Medium",
+      "id": 34
+    },
+    {
+      "name": "1969 D-EBBEY-FSC1 MEDIUM TREATED BLUE WOMAN BOOTCUT AND FLARE JEANS",
+      "desc": "Slim style with a low waist and bootcut leg. Enriched with red thread embroideries across the front and back pockets, waist and upper thigh. The fabric is made using 26% certified recycled cotton, reducing the use of virgin resources. Made from fix fabric in a cotton blend including recycled fibres, this medium blue wash is defined by a unique fabric construction with a warp weft in red - the iconic Diesel colour - that's exposed through cuts in the fabric.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372767005/665/410372767005_1_3515.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372767005/665/410372767005_2_4957.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372767005/665/410372767005_3_4973.webp",
+      "price": "34999",
+      "product": "jeans",
+      "category": "women",
+      "size": "Medium",
+      "id": 35
+    },
+    {
+      "name": "G-WARREL-CMF MULTI REGULAR PRINTED JACKETS",
+      "desc": "This women's windbreaker jacket is crafted from crinkled nylon with an all-over Planet print that's inspired by a birds-eye view of the globe. The style is fitted with a packable hood, stretch cuffs, and an adjustable drawstring hem.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373889005/665/410373889005_1_2032.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373889005/665/410373889005_2_2124.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373889005/665/410373889005_3_3427.webp",
+      "price": "32999",
+      "product": "accessories",
+      "category": "women",
+      "size": "Medium",
+      "id": 36
+    },
+    {
+      "name": "T-UNCUTIE-LONG-L3 BLACK SLIM PRINTED T-SHIRT",
+      "desc": "women's slim-fit tee built from cotton jersey, printed with a globe graphic and spiralling Diesel 'World Wide' lettering. Finished with a contrast neckline and coverstitching.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373874004/665/410373874004_1_7497.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373874004/665/410373874004_2_2971.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373874004/665/410373874004_3_8822.webp",
+      "price": "11999",
+      "product": "t-shirt",
+      "category": "women",
+      "size": "Medium",
+      "id": 37
+    },
+    {
+      "name": "T-UNCUTIE-LONG-L3 GREY SLIM PRINTED T-SHIRT",
+      "desc": "women's slim-fit tee built from cotton jersey, printed with a globe graphic and spiralling Diesel 'World Wide' lettering. Finished with a contrast neckline and coverstitching.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373874008/665/410373874008_1_3437.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373874008/665/410373874008_2_1875.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373874008/665/410373874008_3_8872.webp",
+      "price": "11999",
+      "product": "t-shirt",
+      "category": "women",
+      "size": "Medium",
+      "id": 38
+    },
+    {
+      "name": "C-DOU-STRIPE MULTI REGULAR STRIPES SHIRTS",
+      "desc": "women's black and white striped shirt built from double-twisted cotton. Styled with a rounded lower back hem, it features an embroidered oval D logo in contrast yarn on the chest.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373678004/665/410373678004_3_1659.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373678004/665/410373678004_4_9335.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373678004/665/410373678004_1_7914.webp",
+      "price": "24999",
+      "product": "t-shirt",
+      "category": "women",
+      "size": "Medium",
+      "id": 39
+    },
+    {
+      "name": "T-SKINZY-L1 GREY REGULAR PRINTED T-SHIRT",
+      "desc": "This grey women's tee is built from raw-effect, vintage-look cotton. Styled with a skinny fit, it's been treated from the inside with a Diesel Industry print to accentuate its worn-in aesthetic.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373892004/665/410373892004_3_1922.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373892004/665/410373892004_4_5892.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373892004/665/410373892004_1_2717.webp",
+      "price": "14999",
+      "product": "t-shirt",
+      "category": "women",
+      "size": "Medium",
+      "id": 40
+    },
+    {
+      "name": "DE-DAVIS-L-S BLUE LOOSE SOLID DRESSES",
+      "desc": "women's midi dress designed in a shirt silhouette with a loose fit. The asymmetric, high-low hem is split on the sides. Crafted from light blue TENCEL™ Lyocell denim and decorated on the back yoke with a large, super stonewashed Oval D logo patch finished with raw edges.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373921003/665/410373921003_3_7776.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373921003/665/410373921003_1_9789.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373921003/665/410373921003_2_3855.webp",
+      "price": "59999",
+      "product": "t-shirt",
+      "category": "women",
+      "size": "Medium",
+      "id": 41
+    },
+    {
+      "name": "D-OLLIES SLIM FIT WOMAN BLACK CLEAN JOGGJEANS",
+      "desc": "This black wash is subtly treated with light whiskers and a 3D finish. Slim style featuring a regular waist, crafted in JoggJeans® for the utmost comfort. The clean look is versatile and feminine.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372462004/665/410372462004_1_6991.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372462004/665/410372462004_2_4027.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372462004/665/410372462004_3_5869.webp",
+      "price": "22399",
+      "product": "jeans",
+      "category": "women",
+      "size": "Medium",
+      "id": 42
+    },
+    {
+      "name": "BABHILA SLIM FIT WOMAN BROWN MEDIUM WASHED JEANS",
+      "desc": "Slim style with a regular waist that bridges the gap between skin-tight denim and traditional straight looks. The construction and clean look are inspired by classic jeans.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410291682001/665/410291682007_1.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410291682001/665/410291682007_2.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410291682001/665/410291682007_3.webp",
+      "price": "20299",
+      "product": "jeans",
+      "category": "women",
+      "size": "Medium",
+      "id": 43
+    },
+    {
+      "name": "2015 BABHILA SKINNY FIT WOMAN BLUE MEDIUM WASHED JEANS",
+      "desc": "Skinny style with a regular waist that bridges the gap between skin-tight denim and traditional straight looks. Finished with a zip fly, the construction and clean look of this denim are inspired by classic jeans.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345023007/665/410345023007_5_9154.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345023007/665/410345023007_1_4764.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345023007/665/410345023007_2_3886.webp",
+      "price": "15399",
+      "product": "jeans",
+      "category": "women",
+      "size": "Medium",
+      "id": 44
+    },
+    {
+      "name": "D-TAIL STRAIGHT FIT WOMAN RED MEDIUM WASHED JOGGJEANS",
+      "desc": "Skinny style with a regular waist and skinny leg.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345220003/665/410345220003_1_2407.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345220003/665/410345220003_2_8142.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345220003/665/410345220003_5_6388.webp",
+      "price": "25899",
+      "product": "jeans",
+      "category": "women",
+      "size": "Medium",
+      "id": 45
+    },
+    {
+      "name": "D-TENNY-DOVAL-PJ REGULAR PATCH BLACK DRESS",
+      "desc": "Short dress in organic cotton, cut to a regular fit with a sporty polo neckline. Detailed on the chest with an oval 'D' patch.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372553002/665/410372553002_1_1748.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372553002/665/410372553002_2_3934.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410372553002/665/410372553002_3_6990.webp",
+      "price": "13599",
+      "product": "t-shirt",
+      "category": "women",
+      "size": "Medium",
+      "id": 46
+    },
+    {
+      "name": "WAYKEE STRAIGHT FIT BOY BLUE JOGGJEANS",
+      "desc": "Straight style with regular waist and ample thigh room. Crafted from stretch dark blue denim with a clean look.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410271568005/665/410271568005_2.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410271568005/665/410271568005_2.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410271568005/665/410271568005_3.webp",
+      "price": "4899",
+      "product": "jeans",
+      "category": "kid",
+      "size": "Medium",
+      "id": 47
+    },
+    {
+      "name": "1979 SLEENKER-J SKINNY KID BLACK JEANS",
+      "desc": "Skinny style with a low waist and narrow leg from thigh to ankle, featuring a versatile design with a punk attitude. This stretch-denim pair has a soft feel and a clean black wash with a gold-tone Diesel logo on the 5th pocket.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345358005/665/410345358005_1_3427.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345358005/665/410345358005_2_9479.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410345358005/665/410345358005_3_3999.webp",
+      "price": "7999",
+      "product": "jeans",
+      "category": "kid",
+      "size": "Medium",
+      "id": 48
+    },
+    {
+      "name": "LSTREY OVER REGULAR KID SWEATER",
+      "desc": "This hooded sweatshirt is crafted from soft cotton, characterised by a geometric colour block motif. A small Diesel logo is printed on the chest.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373541005/665/410373541005_1_9510.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373541005/665/410373541005_2_5811.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373541005/665/410373541005_1_9510.webp",
+      "price": "7999",
+      "product": "t-shirt",
+      "category": "kid",
+      "size": "Medium",
+      "id": 49
+    },
+    {
+      "name": "FHOK KID CAP",
+      "desc": "Boys' baseball cap in cotton twill. This style is printed an appliqud with a retro collegiate-style logo and the year of Diesel's founding.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373531003/665/410373531003_1_6567.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373531003/665/410373531003_2_4704.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373531003/665/410373531003_3_4349.webp",
+      "price": "3999",
+      "product": "accessories",
+      "category": "kid",
+      "size": "Medium",
+      "id": 50
+    },
+    {
+      "name": "TENNIX OVER REGULAR KID T-SHIRT",
+      "desc": "This short-sleeve boy's tee is designed with a layered look, inspired by basketball uniforms. The top is crafted from technical fabric with an all-over matte and shiny monogram, and features a V-neckline, contrasting trims, and white cotton sleeves.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373546005/665/410373546005_1_9782.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373546005/665/410373546005_2_5125.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410373546005/665/410373546005_3_4683.webp",
+      "price": "7199",
+      "product": "t-shirt",
+      "category": "kid",
+      "size": "Medium",
+      "id": 51
+    },
+    {
+      "name": "SERENDIPITY MEN BLACK SNEAKERS",
+      "desc": "Mesh sneakers with vintage suede and soft padded overlays. Branded with a D patch and a heat-pressed Diesel For Successful Living label on the tongue. Set on a cushioned sporty sole.",
+      "image1": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410315374005/665/410315374005_1_3068.webp",
+      "image2": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410315374005/665/410315374005_2_9565.webp",
+      "image3": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:500)/product/410315374005/665/410315374005_3_3838.webp",
+      "price": "13999",
+      "product": "accessories",
+      "category": "men",
+      "size": "Medium",
+      "id": 52
+    }
+  ],
+  "jeans": {
+    "womenjeans": [
+      {
+        "name": "Bootcut",
+        "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692280540bootcut_fl.webp"
+      },
+      {
+        "name": "Slim",
+        "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692280540bootcut_fl.webp"
+      },
+      {
+        "name": "Skinny",
+        "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692280540bootcut_fl.webp"
+      },
+      {
+        "name": "Straight",
+        "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692280493straight_fl.webp"
+      },
+      {
+        "name": "Skinny",
+        "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692280599superskinny_fl.webp"
+      },
+      {
+        "name": "Boyfriend",
+        "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692280452boyfriend_fl.webp"
+      }
+    ],
+    "menjeans": [
+      {
+        "name": "Skinny",
+        "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692281091skinny_ml.webp"
+      },
+      {
+        "name": "Straight",
+        "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692281044straight_ml.webp"
+      },
+      {
+        "name": "Tappered",
+        "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692281019tapered_ml.webp"
+      },
+      {
+        "name": "Slim",
+        "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692281067slim_ml.webp"
+      },
+      {
+        "name": "Bootcut",
+        "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692281067slim_ml.webp"
+      }
+    ]
+  },
+  "ptype": [
+    {
+      "name": "mens Belt",
+      "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692282134FW23_DROP_1_2_LOOKBOOK___OPC_SELL_OUT_CROPS_BEACHWEAR__CAMOUFLAGE_(UX)_1_1_210323_CC_DIESEL-OPC-FW23_SHOT03-COMP-f.webp"
+    },
+    {
+      "name": "women Apeal",
+      "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692290055FW23_DROP_1_2_LOOKBOOK___OPC_SELL_OUT_CROPS_KNITWEAR_(FL)_1_1_DIESEL__158.webp"
+    },
+    {
+      "name": "Sneakers",
+      "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692281976FW23_DROP_1_2_LOOKBOOK___OPC_SELL_OUT_CROPS_SNEAKERS_(FL)_1_1_210323_CC_DIESEL-OPC-FW23_SHOT02_144-COMP.webp"
+    },
+    {
+      "name": "womens Jeans",
+      "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692282403FW23_DROP_1_2_LOOKBOOK___OPC_SELL_OUT_CROPS_OVAL_D_DENIM___EMBROIDERED_(UX)_1_1_DIESEL__895_1.webp"
+    },
+    {
+      "name": "womens Bags",
+      "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692282321FW23_DROP_1_2_LOOKBOOK___OPC_SELL_OUT_CROPS_DENIM_ACCESORIES_1_1_210323_CC_DIESEL-OPC-FW23_SHOT04-COMP-f.webp"
+    },
+    {
+      "name": "women Belt",
+      "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692282097FW23_DROP_1_2_LOOKBOOK___OPC_SELL_OUT_CROPS_RAW_EDGES_(FL)___NEON_TOUCH_DENIM_(ML)_1_1_DIESEL__1208.webp"
+    },
+    {
+      "name": "men Topwear",
+      "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692282229FW23_DROP_1_2_LOOKBOOK___OPC_SELL_OUT_CROPS_OVAL_D_DENIM___EMBROIDERED_(UX)_1_1_DIESEL__961.webp"
+    },
+    {
+      "name": "mens Denim",
+      "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/qlNgW4/t.resize(w:300)/banner/1692282522FW23_DROP_1_2_LOOKBOOK___OPC_SELL_OUT_CROPS_RAW_EDGES_(FL)___NEON_TOUCH_DENIM_(ML)_1_1_DIESEL__997.webp"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "number": 8342983389
+    },
+    {
+      "number": "9437613849",
+      "id": 2
+    },
+    {
+      "number": "1234568956",
+      "id": 3
+    },
+    {
+      "number": "8342983389",
+      "id": 4
+    },
+    {
+      "number": "8342983389",
+      "id": 5
+    },
+    {
+      "number": "8342983389",
+      "id": 6
+    },
+    {
+      "number": "9784566221",
+      "id": 7
+    },
+    {
+      "number": "8342983389",
+      "id": 8
+    },
+    {
+      "number": "8342983389",
+      "id": 9
+    },
+    {
+      "number": "8342983389",
+      "id": 10
+    },
+    {
+      "number": "8342983389",
+      "id": 11
+    },
+    {
+      "number": "2323232232",
+      "id": 12
+    },
+    {
+      "number": "9937469880",
+      "id": 13
+    }
+  ]
+}
